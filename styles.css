@@ -129,7 +129,7 @@ header .bottom-content .herbs-menu{
     display: flex;
     padding: 200px 100px 200px 0;
     justify-content: flex-end;
-    background-image: url(./images/tea-bag.jpg);
+    background-image: url(tea-bag.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -445,14 +445,14 @@ header .bottom-content .herbs-menu{
 }
 
 .round-frames .frame1{
-    background-image: url(./images/petar.jpg);
+    background-image: url(petar.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .round-frames .frame2{
-    background-image: url(./images/rada.jpg);
+    background-image: url(rada.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -460,7 +460,7 @@ header .bottom-content .herbs-menu{
 
 .round-frames .frame3{
     background-color: var(--dark);
-    background-image: url(./images/una.jpg);
+    background-image: url(una.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -468,7 +468,7 @@ header .bottom-content .herbs-menu{
 
 .round-frames .frame4{
     background-color: var(--dark);
-    background-image: url(./images/sloba.jpg);
+    background-image: url(sloba.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
